@@ -1,0 +1,6 @@
+text,entities,summary
+Delhi faces hazardous air conditions as PM2.5 soars.,"[('Delhi', 'GPE')]", Delhi faces hazardous air conditions as PM2.5 soars . Delhi faces high levels of pollution and high temperatures due to poor air quality .
+Mumbai launches electric bus initiative to cut CO levels.,"[('Mumbai', 'GPE'), ('CO', 'ORG')]", Mumbai launches electric bus initiative to cut CO levels . Mumbai's Mumbai bus initiative aims to cut the city's CO2 emissions .
+Chennai sees sharp rise in NO2 from industrial activity.,"[('Chennai', 'ORG'), ('NO2', 'NORP')]", Chennai sees sharp rise in NO2 from industrial activity . Chennai has a history of high levels of NO2 NO2 in the city .
+Bangalore air quality improves after rain.,[], Bangalore air quality improves after rain . Bangalore's air quality improved after rain in recent days . Air quality has been improving in recent weeks .
+Kolkata ramps up air pollution monitoring stations.,[], Kolkata ramps up air pollution monitoring stations . Air pollution monitors are being used to monitor pollution in the city . Kolkota has been hit by air pollution in recent years .
